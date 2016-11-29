@@ -1,0 +1,25 @@
+
+body { background: navy; 
+			color: white;
+			font-size: 16pt; }
+
+h1 { font-size: 250%; 
+	 font-weight: bold;
+	 color: white        }
+	 
+h2 { font-size: 150%
+     font-style: italic }
+     
+nav li { border: 2px solid lightblue }
+
+
+nav li { padding: 10px;
+         margin: 5px;
+         background: white }
+
+a { color: white;
+           text-decoration: none }
+a:hover { color: red } 
+
+
+		
